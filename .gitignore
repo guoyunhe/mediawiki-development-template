@@ -2,5 +2,6 @@ LocalSettings.php
 cache/
 data/
 extensions/*
+images/*
 sessions/
 skins/*
